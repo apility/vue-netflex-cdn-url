@@ -1,0 +1,36 @@
+{
+  "name": "@apility/vue-netflex-cdn-url",
+  "version": "1.0.0",
+  "description": "A Vue plugin that provides Netflex cdn url",
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/vue-netflex-cdn-url.umd.js",
+  "module": "./dist/vue-netflex-cdn-url.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/vue-netflex-cdn-url.es.js",
+      "require": "./dist/vue-netflex-cdn-url.umd.js"
+    }
+  },
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apility/vue-netflex-cdn-url.git"
+  },
+  "author": "Cathrine Vaage",
+  "homepage": "https://github.com/apility/vue-netflex-cdn-url/tree/main#readme",
+  "dependencies": {
+    "@apility/netflex-cdn-url": "^1.0.0",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.39",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9",
+    "vite-plugin-dts": "^1.2.0"
+  }
+}
