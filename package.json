@@ -24,7 +24,7 @@
   "author": "Cathrine Vaage",
   "homepage": "https://github.com/apility/vue-netflex-cdn-url/tree/main#readme",
   "dependencies": {
-    "@apility/netflex-cdn-url": "^2.0.0"
+    "@apility/netflex-cdn-url": "^2.1.0"
   },
   "peerDependencies": {
     "vue": "^3.0.0"
