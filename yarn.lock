@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@apility/netflex-cdn-url@^2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@apility/netflex-cdn-url/-/netflex-cdn-url-2.1.1.tgz#eb1f1cc08e437a9e8a87f5a25785f05a5134ae38"
-  integrity sha512-edcCiFCPby4xB1AXAx19I+Prxae8EqFd7qYvvVPmdHES2j13HuWTjkOJIRuD6q4NPm3BLB1QIuwHuGt9jxeovg==
+"@apility/netflex-cdn-url@^2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@apility/netflex-cdn-url/-/netflex-cdn-url-2.1.2.tgz#dfa0728694d1e0780e5afb7cac688864afb89d3e"
+  integrity sha512-wQGNWAFVZCpujm/gPQAjHTAQXIGJ6Ma3GUWiOp8gpCQ7zww8eMbXOYXPtg99IC99Z7GW6t1PVM0ri0IEmUERTQ==
 
 "@babel/parser@^7.16.4":
   version "7.18.4"
