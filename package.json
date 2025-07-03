@@ -12,6 +12,7 @@
   "module": "./dist/vue-netflex-cdn-url.mjs",
   "exports": {
     ".": {
+      "types": "./dist/index.d.ts",
       "import": "./dist/vue-netflex-cdn-url.mjs",
       "require": "./dist/vue-netflex-cdn-url.umd.js"
     }
